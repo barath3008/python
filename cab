@@ -1,0 +1,18 @@
+cab=raw_input("enter destination")
+if (cab=="avadi"):
+    print("$50")
+elif (cab=="ambatur"):
+    print("$150")
+elif (cab=="villivakkam"):
+    print("$250")
+else:
+    print("cab not available")
+
+
+
+......._______.......
+
+sample output
+
+enter destinationavadi
+$50
